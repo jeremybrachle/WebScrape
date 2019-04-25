@@ -1,0 +1,15 @@
+Bentley Bentayga|https://platinummotorcars.com/wp-content/uploads/2019/04/bentayga.jpg|50|2.99|1499.00|2500.00|
+Lamborghini Huracan Spider|https://platinummotorcars.com/wp-content/uploads/2018/06/bl2.png|50|2.99|1299.00|2500.00|
+Aventador|https://platinummotorcars.com/wp-content/uploads/2018/12/aven2.png|50|2.99|2199.00|5000.00|
+Ferrari 488|https://platinummotorcars.com/wp-content/uploads/2019/01/488red7.png|50|2.99|1499.00|5000.00|
+Mclaren 570s|https://platinummotorcars.com/wp-content/uploads/2018/12/mclaren2.png|50|2.99|1499.00|2500.00|
+Rolls Royce Wraith|https://platinummotorcars.com/wp-content/uploads/2019/02/bwraith2.png|50|2.99|1499.00|2500.00|
+Rolls Royce Ghost|https://platinummotorcars.com/wp-content/uploads/2018/06/blkgh2.png|50|1.99|1499.00|2500.00|
+Rolls Royce DAWN|https://platinummotorcars.com/wp-content/uploads/2018/06/roll2.png|50|2.99|1799.00|5000.00|
+Aston Martin Vantage|https://platinummotorcars.com/wp-content/uploads/2019/01/vantage2.png|100|.99|799.00|2500.00|
+Aston Martin Vanquish|https://platinummotorcars.com/wp-content/uploads/2018/09/vanquish1.png|50|3.00|1199.00|2500.00|
+Porsche 911 Carrera|https://platinummotorcars.com/wp-content/uploads/2018/06/carrera4.png|100|0.99|449.00|1500.00|
+Mercedes S Class|https://platinummotorcars.com/wp-content/uploads/2018/07/mb2.png|100|.99|449.00|1500.00|
+Cadillac Escalade ESV|https://platinummotorcars.com/wp-content/uploads/2018/07/esv2-1.png|100|.99|399.00|1500.00|
+Land Rover Range Rover|https://platinummotorcars.com/wp-content/uploads/2018/06/dsc_9300.png|100|0.99|499.00|1500.00|
+Land Rover Black Range Rover|https://platinummotorcars.com/wp-content/uploads/2018/06/range4.png|100|0.99|499.00|1500.00|
