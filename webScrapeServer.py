@@ -12,26 +12,12 @@ from flask_cors import CORS
 # import the web scraping file
 import pmScrape
 
-
 # initialize the app and set up CORS
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 CORS(app)
 
-
-people = [
-    {'id': 0,
-     'name': 'Alice',
-     'favorite_color': 'blue'
-     },
-    {'id': 1,
-     'name': 'Bob',
-     'favorite_color': 'red'
-    }
-]
-
 # api routes
-
 # default
 @app.route('/', methods=['GET'])
 def home():
@@ -43,5 +29,5 @@ def api_all():
     jsonCars = pmScrape.getSoup()
     return jsonify(jsonCars)
 
-
+# run the API
 app.run()
